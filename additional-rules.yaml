@@ -1,5 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,sdk-api.apptracer.ru,REJECT
-  - DOMAIN-SUFFIX,tracker-api.vk-analytics.ru,REJECT
-  - DOMAIN-SUFFIX,yandex.net,DIRECT
-  - DOMAIN-SUFFIX,vk.ru,REJECT
